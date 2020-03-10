@@ -1,0 +1,4 @@
+flask
+firebase
+firebase-admin
+Pyrebase4

@@ -1,0 +1,24 @@
+{
+  "Faculty" : {
+    "All_ID" : "TP000"
+  },
+  "Student" : {
+    "Attendance" : {
+      "s1" : {
+        "PRESENT" : "False",
+        "SEX" : "Female"
+      },
+      "s2" : {
+        "Age" : "20",
+        "PRESENT" : "True",
+        "SEX" : "Male"
+      },
+      "s3" : {
+        "DEVICE ID" : "TP000",
+        "ID" : "1111",
+        "Present" : "true",
+        "TIME STAMP" : 1.5838642065645812E9
+      }
+    }
+  }
+}
