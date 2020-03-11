@@ -1,4 +1,7 @@
-# PyFirebase
+# PyFirebase :fire:
+
+<p align="center"><img width=85% src="https://raw.githubusercontent.com/sukkritsharmaofficial/PyFirebase/master/media/IMP.png"></p>
+
 
 ## How to run
 #### Clone repo
