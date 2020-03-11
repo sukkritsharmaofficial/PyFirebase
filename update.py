@@ -20,12 +20,16 @@ firebase_admin.initialize_app(cred, {
 
 root = db.reference()
 
-user = root.child('Student').child('Attendance').child('s3') 
+user = root.child('Student').child('All_ID').child('Attendance')
 
 # DEFINING THE STUDENT DETAILS STRUCTURE JUST ONCE AND PASSING AND UPDATING LATER ON
 
 dat = {"UID": "DEVICE ID", "ID": "REGISTRATION NUMBER", "ATTENDANCE": "FALSE", "TIME STAMP": "TIME OF ENTRY"}
       
+
+user.update({
+      "ID1" : "suckmydick"
+})
 
 def update_attendance(user, p):
       if p == True:
